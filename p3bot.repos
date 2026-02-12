@@ -1,0 +1,5 @@
+repositories:
+  p3bot_description:
+    type: git
+    url: https://github.com/SergioEslava/p3bot_description.git
+    version: main

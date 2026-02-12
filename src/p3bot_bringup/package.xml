@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>p3bot_bringup</name>
+  <version>0.1.0</version>
+  <description>Initial bringup package for P3Bot (launch + default config).</description>
+
+  <maintainer email="sergioeslavadev@gmail.com">Sergio Eslava</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+  <exec_depend>webots_ros2_driver</exec_depend>
+  <exec_depend>slam_toolbox</exec_depend>
+  <exec_depend>p3bot_description</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

@@ -1,0 +1,4 @@
+/**:
+  ros__parameters:
+    use_sim_time: true
+    set_robot_state_publisher: false
