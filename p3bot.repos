@@ -3,3 +3,7 @@ repositories:
     type: git
     url: https://github.com/SergioEslava/p3bot_description.git
     version: main
+  p3bot_gazebo_model:
+    type: git
+    url: https://github.com/SergioEslava/p3bot_gazebo_model.git
+    version: main
